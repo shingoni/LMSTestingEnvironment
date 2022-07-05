@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to LMSTesting Environment
 
-You can use the [editor on GitHub](https://github.com/shingoni/LMSTestingEnvironment/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository is aimed to help you:
+- Set up a test learning environment
+- Develop external tools or plugins for the prescribed learning environment
+- Design user studies for testing evaluation purposes (surveys)
+- Share results with the community (e.g. Github)
+- Log the activity of users to a specific purpose database with data resulting from user studies
 
 ### Markdown
 
