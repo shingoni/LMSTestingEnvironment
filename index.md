@@ -1,4 +1,4 @@
-## Welcome to LMSTesting Environment
+# Welcome to LMSTesting Environment
 
 This repository is aimed to help you:
 - Set up a test learning environment
