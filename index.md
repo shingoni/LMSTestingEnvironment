@@ -1,4 +1,9 @@
 # Welcome to LMSTesting Environment
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.md", title: "Home Page", icon: home}
+  - {file: "README.md", title: "About", icon: address-card}
   
 This repository is aimed to help you:
 - Set up a test learning environment
