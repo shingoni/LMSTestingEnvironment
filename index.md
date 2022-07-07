@@ -1,5 +1,12 @@
 # Welcome to LMSTesting Environment
 
+<nav>
+  <ul>
+    <li><a href="/about/">About</a></li>
+    <li><a href ="/contact/">Contact</a></li>
+  </ul>
+      
+
 This repository is aimed to help you:
 - Set up a test learning environment
 - Develop external tools or plugins for the prescribed learning environment
