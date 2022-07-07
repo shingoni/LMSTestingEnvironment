@@ -1,4 +1,4 @@
-theme: jekyll-cayman-theme
+theme: jekyll-theme-cayman
 title: "LMS Testing Environment"
 author: "Omar Baz"
 description: "A comprehensive guide to deploying a testing environdasdament for LMS development"
@@ -24,5 +24,4 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:omar.baz@stud.uni-due.de"}
   - {title: Github, icon: github, url: "https://github.com/shingoni/LMSTestingEnvironment"}
 
-plugins:
- - jekyll-feed
+
