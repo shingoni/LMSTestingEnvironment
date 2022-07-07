@@ -1,11 +1,3 @@
-<html>
-<nav>
-  <ul>
-    <li><a href="/about/">About</a></li>
-    <li><a href ="/contact/">Contact</a></li>
-  </ul>
- </html>
-  
 # Welcome to LMSTesting Environment
   
 This repository is aimed to help you:
