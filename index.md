@@ -7,7 +7,7 @@
   </ul>
       
 
-This repository is aimed to help you:
+This repository is aimed to help youz:
 - Set up a test learning environment
 - Develop external tools or plugins for the prescribed learning environment
 - Design user studies for testing evaluation purposes (surveys)
