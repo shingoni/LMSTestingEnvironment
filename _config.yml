@@ -1,1 +1,25 @@
 theme: jekyll-theme-cayman
+title: "LMS Testing Environment"
+author: "Omar Baz"
+description: "A comprehensive guide to deploying a testing environment for LMS development"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html", title: "Home Page", icon: home}
+  - {file: "README.md", title: "About", icon: address-card}
+ 
+ 
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:omar.baz@stud.uni-due.de"}
+  - {title: Github, icon: github, url: "https://github.com/shingoni/LMSTestingEnvironment"}
